@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv2xml": "^0.0.4",
+    "fast-xml-parser": "^4.3.1",
+    "xmlbuilder": "^15.1.1"
+  }
+}
