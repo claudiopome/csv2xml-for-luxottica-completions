@@ -7,7 +7,7 @@ A simple tool to create a XML file from a CSV
 
 ## Usage
 
-The file accepts an ```input.csv```and generates an ```output.xml
+The file accepts an ```input.csv``` and generates an ```output.xml```
 
 From CLI run this command ```node csv2xml```
 
